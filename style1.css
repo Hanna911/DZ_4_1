@@ -1,0 +1,64 @@
+body {
+font-family: Tahoma;
+}
+
+.cover {
+ 
+    width: 380px;
+    height: 530px;
+    background-color: white;
+    margin: 10px;
+    border: 1px solid black;
+
+}
+ 
+ h1 {
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+/*  padding: auto;*/    
+ }
+
+img {
+
+    height: 290px;
+    display:block; 
+    margin:0 auto;
+
+}
+
+.credit {
+    width: 190px;
+    height: 35px;
+    color: white;
+    font-size: 22px;
+    background-color: #8bc144;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+ 
+.stoimost {
+    width: 228px;
+    height: 64px;
+    background-color: white;
+    color: black;
+    font-style: bold;
+    font-size: 31px;
+    text-align: center;
+    margin-left: 76px;
+    padding-top: 10px;
+}
+ 
+.clic {
+    width: 228px;
+    height: 45px;
+    color: white;
+    font-size: 28px;
+    background-color: #ff0000;
+    text-align: center;
+    margin-left: 76px;
+ 
+}
